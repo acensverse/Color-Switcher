@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.color {
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+}
